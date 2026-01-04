@@ -11,7 +11,7 @@
 [![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
 
-[🎮 Play Now](#-quick-start) • [📖 Features](#-features) • [🚀 Tech Stack](#-tech-stack) • [🤝 Contributing](#-contributing)
+[🌐 Live Demo](https://adylevy.github.io/slither-vs-bots/) • [🎮 Play Now](#-quick-start) • [📖 Features](#-features) • [🚀 Tech Stack](#-tech-stack) • [🤝 Contributing](#-contributing)
 
 ---
 
