@@ -6,6 +6,8 @@
 
 **A high-performance arcade snake game where you compete against AI bots in a massive neon arena**
 
+### 🎮 [Play Online Now](https://adylevy.github.io/slither-vs-bots/)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://reactjs.org/)
