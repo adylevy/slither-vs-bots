@@ -22,12 +22,14 @@
 <div align="center">
 
 ### 🎯 Main Menu
-![Menu Screen](screenshots/menu.png)
-*Customize difficulty and opponent count before entering the arena*
+
+![Menu Screen](imgs/img1.png)
+_Customize difficulty and opponent count before entering the arena_
 
 ### 🎮 Gameplay
-![Gameplay](screenshots/gameplay.png)
-*Compete against AI bots, grow your snake, and climb the leaderboard*
+
+![Gameplay](imgs/img2.png)
+_Compete against AI bots, grow your snake, and climb the leaderboard_
 
 </div>
 
